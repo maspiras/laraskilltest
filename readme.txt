@@ -19,3 +19,5 @@ which can be found at laravel/public/products.json
 
 It stores all the data in that file.
 
+------------------------
+Proudly Created by: Mark Aspiras
